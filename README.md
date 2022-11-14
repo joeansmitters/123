@@ -1,6 +1,6 @@
 myviptravel
 
-[vip travel]{https://myviptravel.net/)
+[vip travel](https://myviptravel.net/)
 
 
 [Visit jordan](https://myviptravel.net/jordan-package/)
